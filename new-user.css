@@ -1,0 +1,49 @@
+
+.form{
+    margin: 0 auto;
+    width: 40%;
+    /* border: solid green; */
+}
+.form > input{
+    padding: 18px 20px;
+    border: solid 1px  #E2E2E2;
+    border-radius: 5px;
+    width: 70%;
+    font-size: 18px;
+    color: rgb(90, 82, 82);
+}
+.form >button{
+    border: none;
+    outline: none;
+    background-color:#1244ac;
+    padding: 12px 20px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+/* .form{
+    margin: 0 auto;
+    width: 40%;
+    
+
+}
+.form > input{
+    padding: 18px 20px;
+    border: solid 1px white;
+    border-radius: 5px;
+    width: 70%;
+    font-size: 18px;
+    color: #716f6f;
+
+
+}
+.form > button {
+    border: none;
+    outline: none;
+    background-color: #124acc;
+    padding: 12 20px;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    
+} */
